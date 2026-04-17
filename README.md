@@ -53,5 +53,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
-  <sub>做点有趣的，也做点有用的。</sub>
+  <sub>永远相信美好的事情即将发送，共勉！</sub>
 </div>
