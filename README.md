@@ -1,4 +1,4 @@
-<p align="center"><a href="https://talen.top"><img width="80%" alt="Hello, I'm Talen." src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://talen.top"><img width="80%" alt="Hello, I'm Talen." src="./assets/readme-header.png" /></a></p>
 
 ### 你好，我是 Ethan 👋
 
@@ -42,16 +42,17 @@
   <a href="https://github.com/talen8" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=talen8&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=8" alt="Linguagens mais usadas" width="405" height="auto" loading="lazy" /></a>
 </p>
 
-### POST
+<!-- ### POST -->
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [盘点开发者眼里的赛博大善人（一）](https://blog.talen.top/posts/0oc34lqd)
 - [博客系统 FlecBlog 现已正式开源](https://blog.talen.top/posts/nem9jf8q)
 - [Windows 注册表原理与实战指南](https://blog.talen.top/posts/3gkrg8et)
 - [GitHub Actions 自动化部署全攻略](https://blog.talen.top/posts/ed2jfzfv)
-- [自研博客系统打造极致极简创作体验](https://blog.talen.top/posts/xniailcy)
+- [自研博客系统打造极致极简创作体验](https://blog.talen.top/posts/xniailcy) -->
 <!-- BLOG-POST-LIST:END -->
 
-<div align="right">
-  <sub>永远相信美好的事情即将发送，共勉！</sub>
+<div align="center">
+  <sub>静待时序流转，风月自会渡我。</sub>
 </div>
